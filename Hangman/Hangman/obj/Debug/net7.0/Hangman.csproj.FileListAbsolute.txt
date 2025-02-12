@@ -1,0 +1,15 @@
+/Users/edakarakoc/Desktop/Hangman/Hangman/bin/Debug/net7.0/Hangman
+/Users/edakarakoc/Desktop/Hangman/Hangman/bin/Debug/net7.0/Hangman.deps.json
+/Users/edakarakoc/Desktop/Hangman/Hangman/bin/Debug/net7.0/Hangman.runtimeconfig.json
+/Users/edakarakoc/Desktop/Hangman/Hangman/bin/Debug/net7.0/Hangman.dll
+/Users/edakarakoc/Desktop/Hangman/Hangman/bin/Debug/net7.0/Hangman.pdb
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/Hangman.csproj.AssemblyReference.cache
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfoInputs.cache
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfo.cs
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/Hangman.dll
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/refint/Hangman.dll
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/Hangman.pdb
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/Hangman.genruntimeconfig.cache
+/Users/edakarakoc/Desktop/Hangman/Hangman/obj/Debug/net7.0/ref/Hangman.dll
